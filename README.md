@@ -16,7 +16,7 @@ Dirección IP: Mediante el programa, seremos capaces de obtener la dirección IP
 
 Estas son solo algunas de las opciones disponibles en nuestro infostealer. Con la implementación de estas funciones y más, buscamos ofrecer un programa versátil y completo que pueda abarcar un amplio rango de información relevante en cualquier contexto en el que se aplique.
 
-##ESTRUCTURA
+## ESTRUCTURA
 
 En el contexto de nuestro proyecto, hemos desarrollado dos archivos en Python fundamentales para la captura y transferencia de información. El primero, denominado consulta.py, contiene todas las funciones necesarias para la recopilación de datos. Desde la interacción con bases de datos hasta la extracción de información de diversos dispositivos, este archivo facilita la obtención precisa y eficiente de los datos requeridos.
 
